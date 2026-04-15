@@ -1,0 +1,27 @@
+{
+  "overview": "A modern, visually impressive personal portfolio website for an entry-level developer. Features a dark glassmorphism design with violet-cyan gradient accents, animated hero with typing effect, skills showcase, project cards with hover effects, experience timeline, certifications, and a contact form — all fully responsive.",
+  "features": [
+    "Animated hero with typing effect cycling through developer roles",
+    "Dark glassmorphism design with violet-cyan gradient accents",
+    "Skills showcase with 4 categories: Frontend, Backend, Tools, Soft Skills",
+    "Project cards with hover glow effects and tech tags",
+    "Vertical experience timeline with fade-in scroll animations",
+    "Certifications grid with glass card design",
+    "Contact form with success toast notification and social links",
+    "Sticky responsive navbar with mobile hamburger menu",
+    "Intersection Observer scroll animations throughout",
+    "Fully responsive across mobile, tablet, and desktop"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "personal-website",
+    "dark-theme",
+    "glassmorphism",
+    "animations",
+    "responsive",
+    "react",
+    "tailwind-css"
+  ],
+  "last_updated": "2026-04-15T19:23:30.520Z"
+}
